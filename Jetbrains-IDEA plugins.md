@@ -34,3 +34,5 @@ java类生成json
 快捷修改字符串
 - Translation
 翻译
+- Save Actions X
+用于在文件保存时优化包导入，自动为没有修改的变量添加final修饰符，调用方法的时候自动添加this关键字等。
