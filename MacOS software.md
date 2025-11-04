@@ -7,6 +7,9 @@
 -   XPipe 可视化k8s控制台，可管理文件
 -   Genymotion 安卓模拟器
 -   Charles 代理、抓包
+-   [sdkman](https://sdkman.io/)jdk版本管理工具
+-   [pyenv](https://github.com/pyenv/pyenv)python版本管理工具
+-   [nvm](https://github.com/nvm-sh/nvm)nodeJs版本管理工具
 
 ## for daily use
 -   Bartender 状态栏图标整理
