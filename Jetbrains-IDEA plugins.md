@@ -6,6 +6,10 @@
 Alibaba java编码规约
 - Debug Variable Save Load
 用于在debug阶段导入导出参数
+- DebugTools
+专注于提升debug效率 [官网](https://debug-tools.cc/)
+- maven-search
+[快速搜索maven坐标](https://plugins.jetbrains.com/plugin/17170-maven-search)
 - Doc view
 生成接口文档
 - Easy Javadoc
@@ -23,6 +27,7 @@ json字符串转java
 热加载
 - LeetCode Editor
 - Mermaid
+- plantuml4idea
 markdown文档中支持流程图
 - MyBatisX
 - POJO to JSON
