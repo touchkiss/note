@@ -24,6 +24,10 @@ plugins:
 - Test Runner for Java
 - Trailing Spaces
 
+### 代理antigravity
+- antigravity-tools
+可通过brew安装
+
 ## clawdbot
 
 ### 停止而不卸载
