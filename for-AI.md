@@ -28,7 +28,7 @@ plugins:
 - antigravity-tools
 可通过brew安装
 
-## clawdbot
+## openclaw
 
 ### 停止而不卸载
-[launchctl unload ~/Library/LaunchAgents/com.clawdbot.gateway.plist](https://medium.com/@haseeb1431/how-to-stop-or-unistall-clawdbot-moltbot-f1a0e279716b)
+[launchctl unload ~/Library/LaunchAgents/com.openclaw.gateway.plist](https://medium.com/@haseeb1431/how-to-stop-or-unistall-clawdbot-moltbot-f1a0e279716b)
