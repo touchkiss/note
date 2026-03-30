@@ -29,3 +29,10 @@
 - [OmniDiskSweeper](https://www.omnigroup.com/more) 磁盘使用分析
 - [BongoCat](https://github.com/ayangweb/BongoCat) 键盘鼠标指示小猫
 - [Input Source Pro](https://github.com/runjuu/InputSourcePro)在多个软件间自动切换输入法
+- [ClashMac](http://clashmac.app) 科学上网工具
+  - 重新打开提示端口被占用时
+  ```bash
+  sudo pkill -f clash
+  sudo pkill -f clashmac 
+  sudo pkill -f mihomo
+  ```
