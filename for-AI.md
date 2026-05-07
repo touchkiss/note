@@ -33,7 +33,7 @@ plugins:
 ### 停止而不卸载
 [launchctl unload ~/Library/LaunchAgents/com.clawdbot.gateway.plist](https://medium.com/@haseeb1431/how-to-stop-or-unistall-clawdbot-moltbot-f1a0e279716b)
 
-## [cliproxyapi](https://help.router-for.me/cn/)
+## [cliproxyapi 一个 OpenAI/Gemini/Claude/Codex 兼容的 API 服务](https://help.router-for.me/cn/)
 
 ### 通过homebrew安装
 ```bash
@@ -50,3 +50,9 @@ brew services restart cliproxyapi
 
 然后在AI提供商菜单中，添加OpenAI、claude等的API配置，api-key等敏感信息可以在上面的config.yaml中查看和设置
 
+## [rtk 高性能 CLI 代理，将 LLM token 消耗降低 60-90%](https://github.com/rtk-ai/rtk)
+
+
+## [cc switch Claude Code、Codex、Gemini CLI、OpenCode 和 OpenClaw 的全方位管理工具](https://github.com/farion1231/cc-switch)
+
+## [hermes 自进化 AI 代理](https://github.com/NousResearch/hermes-agent)
