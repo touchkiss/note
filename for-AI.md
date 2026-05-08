@@ -56,3 +56,7 @@ brew services restart cliproxyapi
 ## [cc switch Claude Code、Codex、Gemini CLI、OpenCode 和 OpenClaw 的全方位管理工具](https://github.com/farion1231/cc-switch)
 
 ## [hermes 自进化 AI 代理](https://github.com/NousResearch/hermes-agent)
+
+## claude code
+
+在Terminal中运行claude，可以加--ide 连接到正在运行的vscode
