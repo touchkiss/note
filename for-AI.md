@@ -60,3 +60,8 @@ brew services restart cliproxyapi
 ## claude code
 
 在Terminal中运行claude，可以加--ide 连接到正在运行的vscode
+
+## [rtk 用于压缩输入token](https://github.com/rtk-ai/rtk/blob/master/README_zh.md)
+
+- 安装 brew install rtk
+- 更新 brew upgrade rtk
