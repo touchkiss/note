@@ -1,6 +1,14 @@
 ## for developer
 
 - iTerm 命令行
+- [ghostty 命令行](https://github.com/ghostty-org/ghostty)
+  - [主题优化](https://github.com/BruceLanLan/bruceblue-ghostty-config)
+  - [彩虹路径条](https://starship.rs/presets/gruvbox-rainbow)
+    - 安装starship
+    - 配置~/.zshrc
+    - [下载相关nerd字体](https://www.nerdfonts.com/font-downloads)
+      - FiraCode Nerd Font
+      - JetBrainsMono Nerd Font
 - VisualVM jvm工具
 - Sublime Text 文本工具
 - Lens 可视化k8s控制台

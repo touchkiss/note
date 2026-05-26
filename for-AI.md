@@ -65,3 +65,6 @@ brew services restart cliproxyapi
 
 - 安装 brew install rtk
 - 更新 brew upgrade rtk
+
+## codex
+- [cockpit tools可跳过chatgpt手机号验证](https://github.com/jlcodes99/cockpit-tools)
